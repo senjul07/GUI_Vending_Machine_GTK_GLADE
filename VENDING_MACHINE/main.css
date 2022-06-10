@@ -1,0 +1,222 @@
+/* GLOBAL STYLE */
+
+
+/* main */
+#windowMain{
+     background-image: url('img/bgr.jpg');
+     border-color: rgba(79,116,124,255);
+     border-radius: 50px;
+     padding: 10px;
+     border-style: inset;
+     border-width: 20px;
+     
+}
+
+#btn_hel{
+     background: transparent;
+     border: none;
+     border-radius: 50px;
+     
+}
+
+#btn_hel:hover{
+     background: rgba(116,148,136,255);
+}
+/*
+#boxW_hel{
+     background: rgba(191,212,161,255);
+}
+*/
+
+
+/*
+#hello_logo{
+	border: none;
+    border-radius: 10px;
+    background: rgba(191,212,161,255);
+}
+*/
+
+
+/* windowMenu */
+#windowMenu{
+     background-image: url('img/bgr.jpg');
+     border-color: rgba(79,116,124,255);
+     border-radius: 50px;
+     padding: 10px;
+     border-style: inset;
+     border-width: 20px;
+
+}
+
+#btn1_U1, #btn2_U1, #btn3_U1, #btn4_U1, #btn5_U1, #btn6_U1, #btn7_U1, #btn8_U1, #btn9_U1, 
+#btn1_U2, #btn2_U2, #btn3_U2, #btn4_U2, #btn5_U2, #btn6_U2, #btn7_U2, #btn8_U2{
+
+     background: transparent;
+
+     border: none;
+     border-radius: 50px;
+}
+
+
+#btn1_U1:hover, #btn2_U1:hover, #btn3_U1:hover, #btn4_U1:hover, #btn5_U1:hover, #btn6_U1:hover, #btn7_U1:hover, #btn8_U1:hover, #btn9_U1:hover,
+#btn1_U2:hover, #btn2_U2:hover, #btn3_U2:hover, #btn4_U2:hover, #btn5_U2:hover, #btn6_U2:hover, #btn7_U2:hover, #btn8_U2:hover{
+     background: rgba(116,148,136,255);
+}
+
+#btn1_U1_U1, #btn2_U1_U2, #btn3_U1_U3, #btn4_U1_U4, #btn5_U1_U5, #btn6_U1_U6, #btn7_U1_U7, #btn8_U1_U8, #btn9_U1_U9,
+#btn1_U2_U1, #btn2_U2_U2, #btn3_U2_U3, #btn4_U2_U4, #btn5_U2_U5, #btn6_U2_U6, #btn7_U2_U7, #btn8_U2_U8, #btn9_U2_U9{
+     background: rgba(191,205,173,255);
+     border:none;
+     border-radius: 50px;
+}
+
+
+#btnU1_cancel{
+     background: transparent;
+     border: none;
+     border-radius: 50px;
+}
+
+#btnU1_cancel:hover{
+     background: rgba(116,148,136,255);
+}
+
+
+#sw1{
+    min-height: 10px;
+    min-width: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-left: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: rgba(116,148,136,255);
+        }
+
+#sw1:hover{
+     background: rgba(116,148,136,255);
+}
+
+
+/* windowTemp */
+#windowTemp{
+     background-image: url('img/bgr.jpg');
+     border-color: rgba(79,116,124,255);
+     border-radius: 50px;
+     padding: 10px;
+     border-style: inset;
+     border-width: 20px;
+
+}
+
+#btn1_T1, #btn2_T1{
+
+     background: transparent;
+     border: none;
+     border-radius: 50px;
+}
+
+#btn1_T1:hover, #btn2_T1:hover{
+     background: rgba(116,148,136,255);
+}
+
+#btn1_T1_B1, #btn2_T1_B1{
+     background: rgba(191,205,173,255);
+     border:none;
+     border-radius: 50px;
+}
+
+#btn_exit_T1{
+     background: transparent;
+     border: none;
+     border-radius: 50px;
+     
+}
+
+#btn_exit_T1:hover{
+     background: rgba(116,148,136,255);
+}
+
+
+#btn_ok_T1{
+     background: transparent;
+     border: none;
+     border-radius: 50px;
+     
+}
+
+#btn_ok_T1:hover{
+     background: rgba(116,148,136,255);
+}
+
+
+/* windowPay */
+#windowPay{
+     background-image: url('img/bgr.jpg');
+     border-color: rgba(79,116,124,255);
+     border-radius: 50px;
+     padding: 10px;
+     border-style: inset;
+     border-width: 20px;
+
+}
+
+#btn1_P1, #btn2_P1, #btn3_P1, #btn4_P1, #btn5_P1, #btn6_P1{
+     background: transparent;
+     border: none;
+     border-radius: 50px;
+}
+
+
+#btn1_P1:hover, #btn2_P1:hover, #btn3_P1:hover, #btn4_P1:hover, #btn5_P1:hover, #btn6_P1:hover{
+     background: rgba(116,148,136,255);
+}
+
+#btn1_P1_P1, #btn2_P1_P1, #btn3_P1_P1, #btn4_P1_P1, #btn5_P1_P1, #btn6_P1_P1{
+     background: rgba(191,205,173,255);
+     border:none;
+     border-radius: 50px;
+}
+
+
+#btnP1_cancel{
+     background: transparent;
+     border: none;
+     border-radius: 50px;
+}
+
+#btnP1_cancel:hover{
+     background: rgba(116,148,136,255);
+}
+
+
+/* windowKasbon */
+#windowKasbon{
+     background-image: url('img/bgr.jpg');
+     border-color: rgba(79,116,124,255);
+     padding: 10px;
+     border-style: inset;
+     border-width: 20px;
+
+}
+
+
+#boxK_b2{
+     background: rgba(191,205,173,255);
+     border:none;
+     border-radius: 50px;
+}
+
+
+#btn1_k_b2{
+     background: transparent;
+     border: none;
+     border-radius: 50px;
+}
+
+#btn1_k_b2:hover{
+     background: rgba(116,148,136,255);
+}
